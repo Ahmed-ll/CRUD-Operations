@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Back End\\Projects\\CRUD Operations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C74C9C-DC3D-4F39-9806-455E80410D68}|Face Book\\Face Book.csproj|d:\\back end\\projects\\crud operations\\face book\\user_functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C74C9C-DC3D-4F39-9806-455E80410D68}|Face Book\\Face Book.csproj|solutionrelative:face book\\user_functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C74C9C-DC3D-4F39-9806-455E80410D68}|Face Book\\Face Book.csproj|d:\\back end\\projects\\crud operations\\face book\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C74C9C-DC3D-4F39-9806-455E80410D68}|Face Book\\Face Book.csproj|solutionrelative:face book\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C74C9C-DC3D-4F39-9806-455E80410D68}|Face Book\\Face Book.csproj|d:\\back end\\projects\\crud operations\\face book\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C74C9C-DC3D-4F39-9806-455E80410D68}|Face Book\\Face Book.csproj|solutionrelative:face book\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C74C9C-DC3D-4F39-9806-455E80410D68}|Face Book\\Face Book.csproj|d:\\back end\\projects\\crud operations\\face book\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C74C9C-DC3D-4F39-9806-455E80410D68}|Face Book\\Face Book.csproj|solutionrelative:face book\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User_Functions.cs",
+              "DocumentMoniker": "D:\\Back End\\Projects\\CRUD Operations\\Face Book\\User_Functions.cs",
+              "RelativeDocumentMoniker": "Face Book\\User_Functions.cs",
+              "ToolTip": "D:\\Back End\\Projects\\CRUD Operations\\Face Book\\User_Functions.cs*",
+              "RelativeToolTip": "Face Book\\User_Functions.cs*",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T02:16:54.984Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Back End\\Projects\\CRUD Operations\\Face Book\\User.cs",
+              "RelativeDocumentMoniker": "Face Book\\User.cs",
+              "ToolTip": "D:\\Back End\\Projects\\CRUD Operations\\Face Book\\User.cs",
+              "RelativeToolTip": "Face Book\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T18:45:12.947Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "D:\\Back End\\Projects\\CRUD Operations\\Face Book\\Operations.cs",
+              "RelativeDocumentMoniker": "Face Book\\Operations.cs",
+              "ToolTip": "D:\\Back End\\Projects\\CRUD Operations\\Face Book\\Operations.cs",
+              "RelativeToolTip": "Face Book\\Operations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T18:46:38.92Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Back End\\Projects\\CRUD Operations\\Face Book\\Program.cs",
+              "RelativeDocumentMoniker": "Face Book\\Program.cs",
+              "ToolTip": "D:\\Back End\\Projects\\CRUD Operations\\Face Book\\Program.cs",
+              "RelativeToolTip": "Face Book\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T02:10:08.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

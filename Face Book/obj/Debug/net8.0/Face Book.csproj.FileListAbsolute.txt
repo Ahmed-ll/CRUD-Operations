@@ -1,0 +1,14 @@
+D:\Back End\Projects\CRUD Operations\Face Book\bin\Debug\net8.0\Face Book.exe
+D:\Back End\Projects\CRUD Operations\Face Book\bin\Debug\net8.0\Face Book.deps.json
+D:\Back End\Projects\CRUD Operations\Face Book\bin\Debug\net8.0\Face Book.runtimeconfig.json
+D:\Back End\Projects\CRUD Operations\Face Book\bin\Debug\net8.0\Face Book.dll
+D:\Back End\Projects\CRUD Operations\Face Book\bin\Debug\net8.0\Face Book.pdb
+D:\Back End\Projects\CRUD Operations\Face Book\obj\Debug\net8.0\Face Book.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back End\Projects\CRUD Operations\Face Book\obj\Debug\net8.0\Face Book.AssemblyInfoInputs.cache
+D:\Back End\Projects\CRUD Operations\Face Book\obj\Debug\net8.0\Face Book.AssemblyInfo.cs
+D:\Back End\Projects\CRUD Operations\Face Book\obj\Debug\net8.0\Face Book.csproj.CoreCompileInputs.cache
+D:\Back End\Projects\CRUD Operations\Face Book\obj\Debug\net8.0\Face Book.dll
+D:\Back End\Projects\CRUD Operations\Face Book\obj\Debug\net8.0\refint\Face Book.dll
+D:\Back End\Projects\CRUD Operations\Face Book\obj\Debug\net8.0\Face Book.pdb
+D:\Back End\Projects\CRUD Operations\Face Book\obj\Debug\net8.0\Face Book.genruntimeconfig.cache
+D:\Back End\Projects\CRUD Operations\Face Book\obj\Debug\net8.0\ref\Face Book.dll
